@@ -1,3 +1,4 @@
+
 .clear {
 	clear:both;
 }
@@ -34,8 +35,10 @@
 
 .links a {
     color:black;
-    font-size: 25px;
-    border-bottom: 1px solid #f84342;
+    font-size: 22px;
+    border-bottom: 1px solid #dfdfdf;
+    font-family: 'quicksandregular', sans-serif;
+    font-weight: bold;
 }
 
 header {
@@ -44,4 +47,15 @@ header {
 
 hr {
     clear:both;
+}
+
+h1 {
+    font-family: 'quicksandregular', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: 'quicksanditalic', sans-serif;
+    font-size: 24px;
 }
