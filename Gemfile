@@ -45,3 +45,5 @@ gem 'simple_form'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem "factory_girl_rails", "~> 4.0"
